@@ -7,7 +7,7 @@
 #verion : V1.0
 
 #before to begin do stwd()
-#please to change something use the github link or send me an email
+#please to change something use the github link (https://github.com/marcgarel) or send me an email
 
 #usefull package (don(t forget to install it befor))
 require(oce)
